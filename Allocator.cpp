@@ -1,3 +1,5 @@
+//memory manager for embord and normal c++ plat form
+//
 #include "Allocator.h"
 #include "DataTypes.h"
 #include <new>
